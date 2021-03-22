@@ -1,0 +1,2 @@
+installation poppler instructions:
+https://stackoverflow.com/questions/18381713/how-to-install-poppler-on-windows
